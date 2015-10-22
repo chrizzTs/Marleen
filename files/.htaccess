@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName Zeugnisse
+AuthUserFile /var/www/web752/html/files/.htpasswd
+Require valid-user
